@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 聽媽媽的話 別讓她受傷
+=======
+<!doctype>
+<html>
+ <head>
+>>>>>>> yourbranch
